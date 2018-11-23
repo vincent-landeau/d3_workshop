@@ -11,6 +11,21 @@
 
   - Base Open data de données géo : https://geo.data.gouv.fr
   - Base de fichiers GeoJSON nationaux : https://github.com/gregoiredavid/france-geojson
+  - Open data US : http://catalog.data.gov/dataset
+  - Open data FR : http://data.gouv.fr/
+  - Open data CA : http://ouvert.canada.ca/fr
+  - Open data UK : http://data.gov.uk/
+  - Open data EU : http://data.europa.eu/euodp
+  - Open data NYC : https://opendata.cityofnewyork.us/
+  - Open data SF : https://datasf.org/
+  - Open data Paris : http://opendata.paris.fr/
+  - Open data SNCF : https://data.sncf.com/
+  - Open data Météo France : https://donneespubliques.meteofrance.fr/
+  - US population stats : http://www.census.gov/data.html or http://www.socrata.com/discover/
+  - CIA factbook : https://www.cia.gov/library/publications/the-world-factbook/
+
+  - Autres sources d'inspiration : https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#71341386b54d
+
   - Convertir un fichier .shp en geojson : http://www.weblog.eliaz.fr/article120.html
   - Fonctionnement général D3.js : https://bl.ocks.org/mbostock/3808218
 

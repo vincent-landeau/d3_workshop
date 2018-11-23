@@ -2,7 +2,8 @@
 
 ## Liens utiles
 
-  - API D3.js : https://github.com/d3/d3/blob/master/API.md
+  - API D3.js : https://github.com/d3/d3/blob/master/API.md (v5)
+  - API D3.js : https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md (v3)
   - Base Open data de données géo : https://geo.data.gouv.fr
   - Base de fichiers GeoJSON nationaux : https://github.com/gregoiredavid/france-geojson
   - Convertir un fichier .shp en geojson : http://www.weblog.eliaz.fr/article120.html
@@ -10,8 +11,8 @@
 
 
 Notes :
-  - Si Chrome se plaint de requêtes "cross-origin" locales, le lancer avec le flag "--allow-file-access-from-files"
-
+  - Préférer Firefox pour vos tests (cf cahier des charges)
+  - Si vous testez sur Chrome, le lancer avec le flag "--allow-file-access-from-files" pour charger des fichiers locaux
   - Charger des données pour un pie chart sur C3.js
 
 ```javascript

@@ -23,6 +23,7 @@
   - Open data Météo France : https://donneespubliques.meteofrance.fr/
   - US population stats : http://www.census.gov/data.html or http://www.socrata.com/discover/
   - CIA factbook : https://www.cia.gov/library/publications/the-world-factbook/
+  - European Space Agency : https://earth.esa.int/web/guest/data-access/how-to-access-esa-data
 
   - Autres sources d'inspiration : https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#71341386b54d
 

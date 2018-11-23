@@ -5,6 +5,7 @@
   - API D3.js : https://github.com/d3/d3/blob/master/API.md (v5)
   - API D3.js : https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md (v3)
   - En lien avec D3.js : https://github.com/wbkd/awesome-d3
+  - Exemples de réalisations : http://christopheviau.com/d3list/gallery.html
 
 
 ## Liens utiles - données

@@ -1,9 +1,14 @@
 # Atelier D3.js
 
-## Liens utiles
+## Liens utiles - librairies
 
   - API D3.js : https://github.com/d3/d3/blob/master/API.md (v5)
   - API D3.js : https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md (v3)
+  - En lien avec D3.js : https://github.com/wbkd/awesome-d3
+
+
+## Liens utiles - données
+
   - Base Open data de données géo : https://geo.data.gouv.fr
   - Base de fichiers GeoJSON nationaux : https://github.com/gregoiredavid/france-geojson
   - Convertir un fichier .shp en geojson : http://www.weblog.eliaz.fr/article120.html

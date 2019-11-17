@@ -3,6 +3,15 @@
 ## Premiers pas
 
   - Pour commencer : https://www.datavis.fr/index.php#d3js
+  - A partir des données pie.json, générer différents types de graphiques standards
+  - A partir des données stacked.json, générer un graphique avec courbes cumulées
+  - A partir des données colors.json, générer un cercle pour chaque couleur
+  - Appliquer des forces aux différents cercles (force layout)
+  - A partir des données territoires.geo.json, représenter les zones géographiques
+  - Afficher le libellé de chaque territoire au survol
+  - Afficher les informations du territoire en cliquant
+  - Centrer sur le territoire en cliquant
+ 
 
 ## Liens utiles - librairies
 

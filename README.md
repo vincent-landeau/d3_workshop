@@ -1,9 +1,12 @@
 # Atelier D3.js
 
+## Premiers pas
+
+  - Pour commencer : https://www.datavis.fr/index.php#d3js
+
 ## Liens utiles - librairies
 
   - API D3.js : https://github.com/d3/d3/blob/master/API.md (v5)
-  - API D3.js : https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md (v3)
   - En lien avec D3.js : https://github.com/wbkd/awesome-d3
   - Exemples de réalisations : http://christopheviau.com/d3list/gallery.html
 
@@ -35,16 +38,3 @@
 Notes :
   - Préférer Firefox pour vos tests (cf cahier des charges)
   - Si vous testez sur Chrome, le lancer avec le flag "--allow-file-access-from-files" pour charger des fichiers locaux
-  - Charger des données pour un pie chart sur C3.js
-
-```javascript
-d3.json('data/pie_c3.json', function(data) {
-    var chart = c3.generate({
-        bindto: '#chart',
-        data: {
-            json: data,
-            type: 'pie'
-        }
-    })
-});
-```
